@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1236983948 source:c:\documents and settings\administrateur\mes documents\c++\gametest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1218932294 source:f:\gametest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1218932652 source:e:\gametest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1235947616 source:g:\c++\gametest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1235947616 source:f:\c++\gametest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
